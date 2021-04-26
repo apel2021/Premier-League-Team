@@ -1,0 +1,12 @@
+.all-lg{
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    text-align: center;
+    grid-gap: 120px;
+    margin-top: 30px;
+    
+   
+    
+   
+}
