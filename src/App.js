@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Header from './Component/Header/Header';
 import Home from './Component/Home/Home';
@@ -6,7 +5,6 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link
 } from "react-router-dom";
 import LeagueDetails from './Component/LeagueDetails/LeagueDetails';
 import NoMatch from './Component/NoMatch/NoMatch';
